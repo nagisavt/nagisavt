@@ -1,16 +1,14 @@
-### Hi there 👋
+### Ola! sou Giovanni Verardi Tacchini e eu... 👋
 
-<!--
-**nagisavt/nagisavt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Estou cursando Ciência da Computação na UTFPR-PG.
+- 🚀 Sou membro da Orion, a equipe de projetos aeroespaciais da UTFPR-PG, com atuação tanto em front-end quanto em back-end.
+- 👾 Sou apaixonado por jogos e aproveito meu tempo livre para criar alguns.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nagisavt&show_icons=true&theme=midnight-purple" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagisavt&theme=midnight-purple&langs_count=8&layout=compact&card_width=220" />
+</a>
