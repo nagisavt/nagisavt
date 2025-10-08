@@ -1,8 +1,9 @@
-### Ola! sou Giovanni Verardi Tacchini e eu... 👋
+### Ola! sou Giovanni 👋
 
-- 📚 Estou cursando Ciência da Computação na UTFPR-PG.
-- 🚀 Sou ex-membro da Orion, a equipe de projetos aeroespaciais da UTFPR-PG, com atuação tanto em front-end quanto em back-end.
-- 👾 Sou apaixonado por jogos e aproveito meu tempo livre para criar alguns.
+- 🎓 Ciência da Computação — UTFPR-PG
+- 📊 Foco em Ciência de Dados e IA
+- 🛠️ Python, R, SQL, C, Git, Docker
+- 🎮 Apaixonado por jogos e projetos criativos
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=nagisavt&show_icons=true&theme=midnight-purple&cache_seconds=3600" />
