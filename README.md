@@ -1,13 +1,7 @@
-### Ola! sou Giovanni 👋
+### Olá! Sou Giovanni 👋
 
-- 🎓 Ciência da Computação — UTFPR-PG
-- 📊 Foco em Ciência de Dados e IA
-- 🛠️ Python, R, SQL, C, Git, Docker
-- 🎮 Apaixonado por jogos e projetos criativos
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=nagisavt&show_icons=true&theme=midnight-purple&cache_seconds=3600" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagisavt&theme=midnight-purple&langs_count=8&layout=compact&card_width=220&cache_seconds=3600" />
-</a>
+- 🎓 Bacharel em Ciência da Computação — UTFPR-PG
+- 💼 Desenvolvedor Full Stack Júnior, com foco em backend e banco de dados
+- 🛠️ C#, .NET, SQL Server, APIs REST, LINQ, Git e desenvolvimento web
+- 📚 Estudando boas práticas de engenharia de software e arquitetura
+- 🎮 Gosto de tecnologia, jogos e projetos criativos
