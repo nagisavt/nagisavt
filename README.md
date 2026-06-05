@@ -1,18 +1,3 @@
-# 🇧🇷 Versão Português
-
-### Olá! Sou Giovanni 👋
-
-- 💼 Desenvolvedor Full Stack Júnior com foco em backend — C#, ASP.NET MVC, NHibernate, SQL Server
-- 🏭 Atuo no desenvolvimento e manutenção de um WMS industrial implantado em múltiplos clientes
-- 🎓 Bacharel em Ciência da Computação — UTFPR Ponta Grossa (2026)
-- 🔨 Sempre construindo algo — servidor privado de WoW, precificador de decks automatico, agregador de meta para TCGs e mais
-- 🎮 Apaixonado por jogos e projetos que nascem de problemas reais
-- 📬 Aberto a oportunidades como Desenvolvedor Backend
-
----
-
-# 🇺🇸 English Version
-
 ### Hi, I'm Giovanni 👋
 
 - 💼 Junior Full Stack Developer focused on backend — C#, ASP.NET MVC, NHibernate, SQL Server
